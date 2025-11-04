@@ -1,4 +1,3 @@
-# Marketplace-Platform-QA-Report-
 # Distress.ng Marketplace - Comprehensive QA Test Report
 
 A detailed software testing report for Distress.ng, a buyer/seller marketplace platform. This repository contains functional, UX, security, and performance testing documentation.
