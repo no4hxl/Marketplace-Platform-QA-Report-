@@ -32,22 +32,20 @@ A detailed software testing report for Distress.ng, a buyer/seller marketplace p
 - Security testing fundamentals
 - Professional reporting
 
-## 🚀 How to Use This Report
-This report serves as:
-- Example of professional QA documentation
-- Reference for test case structure
-- Demonstration of risk assessment in testing
-- Template for comprehensive test reporting
-
 ## 👨‍💻 Author
 
 **Abubakar Nurudeen Noah**  
-*Data Analytics / Data Engineer/ QA Engineer / Software Tester*  
+*Data Analytics / Data Engineer / QA Engineer / Software Tester*  
 
 📧 **Email:** [nurudeena225@gmail.com]  
-🔗 **LinkedIn:**(https://www.linkedin.com/in/abu-nurudeen-776b4835b)  
-🐙 **GitHub:** [https://github.com/your-username](https://github.com/your-username)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/abu-nurudeen-776b4835b] 
+🐦 **Twitter/X:** [https://x.com/ruesama2099]  
 
 ---
 
 *This testing report was conducted as part of a comprehensive QA assessment. Feel free to reach out for collaborations or QA opportunities!*
+
+## 🎬 Final Presentation
+**To view the final presentation delivered to the development team:** [https://gamma.app/docs/Distressng-Testing-Report-nla46qudms7xwgh?isFirstMobileDocGeneration=true]
+
+*The presentation covers executive summary, critical findings, severity analysis, and actionable recommendations for the development team.*
